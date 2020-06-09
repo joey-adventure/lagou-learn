@@ -24,6 +24,7 @@
 
 # 代码题
 [./code1.js](./code1.js)
+[./code2.js](./code2.js)
 
 
 
