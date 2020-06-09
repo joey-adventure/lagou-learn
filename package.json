@@ -1,0 +1,22 @@
+{
+  "name": "lagou-learn",
+  "version": "1.0.0",
+  "description": "puyi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joey-adventure/lagou-learn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joey-adventure/lagou-learn/issues"
+  },
+  "homepage": "https://github.com/joey-adventure/lagou-learn#readme",
+  "dependencies": {
+    "loadsh": "^0.0.4"
+  }
+}
