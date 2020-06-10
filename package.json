@@ -18,6 +18,8 @@
   "homepage": "https://github.com/joey-adventure/lagou-learn#readme",
   "dependencies": {
     "@types/lodash": "^4.14.155",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.15",
+    "plop": "^2.7.1",
+    "yeoman-generator": "^4.10.1"
   }
 }
